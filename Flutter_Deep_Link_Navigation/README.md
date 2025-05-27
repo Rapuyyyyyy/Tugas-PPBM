@@ -3,8 +3,15 @@
 ## Nama:
 Mahardika Rafaditya Dwi Putra Hastomo, NIM: 452210146
 
+## Tujuan Praktikum:
+Praktikum ini bertujuan untuk memperkenalkan dan mengimplementasikan **Deep Linking** menggunakan **Navigator 2.0 (Router API)** dalam Flutter. Dengan ini diharapkan dapat memahami:
+- Konsep dasar **RouterDelegate** dan **RouteInformationParser**.
+- Pengelolaan state navigasi secara eksplisit.
+- Implementasi deep linking dan navigasi yang mendukung URL path.
+- Pembuatan struktur aplikasi yang skalabel dan fleksibel terhadap kebutuhan navigasi kompleks.
+
 ## Deskripsi Aplikasi:
-Aplikasi ini adalah contoh aplikasi Flutter yang mengimplementasikan **Deep Linking** dan **Navigator 2.0**. Aplikasi memiliki tiga tampilan utama:
+Aplikasi ini adalah contoh aplikasi Flutter yang mengimplementasikan **Deep Linking** dan **Navigator 2 0**. Aplikasi memiliki tiga tampilan utama:
 - **HomeScreen**: menampilkan daftar item.
 - **DetailScreen**: menampilkan detail dari item yang dipilih.
 - **SettingsScreen**: menampilkan halaman pengaturan aplikasi.
