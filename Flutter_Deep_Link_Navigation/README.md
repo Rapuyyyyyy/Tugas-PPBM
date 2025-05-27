@@ -10,9 +10,9 @@ Aplikasi ini adalah contoh aplikasi Flutter yang mengimplementasikan **Deep Link
 - **SettingsScreen**: menampilkan halaman pengaturan aplikasi.
 
 ## Screenshot Emulator:
-![HomePage](assets/images/HomePage.png)
-![DetailPage](assets/images/DetailPage.png)
-![SettingPage](assets/images/SettingPage.png)
+![HomeScreen](assets/images/HomeScreen.png)
+![DetailScreen](assets/images/DetailScreen.png)
+![SettingScreen](assets/images/SettingScreen.png)
 
 ## Penjelasan Program:
 - Aplikasi dibangun menggunakan **Flutter** dan **Dart**.

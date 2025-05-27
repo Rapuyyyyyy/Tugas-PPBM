@@ -26,6 +26,6 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/HomePage.png
-    - assets/images/DetailPage.png
-    - assets/images/SettingPage.png
+    - assets/images/HomeScreen.png
+    - assets/images/DetailScreen.png
+    - assets/images/SettingScreen.png
